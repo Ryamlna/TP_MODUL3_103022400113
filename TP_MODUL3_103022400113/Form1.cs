@@ -1,10 +1,25 @@
 namespace TP_MODUL3_103022400113
 {
-    public partial class Form1 : Form
+    public partial class lblOutput : Form
     {
-        public Form1()
+        public lblOutput()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblOutput_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPlus_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
